@@ -1,0 +1,29 @@
+{
+  "name": "node-raumfeld",
+  "version": "0.0.1",
+  "description": "Node module for Raumfeld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis-hh/node-raumfeld.git"
+  },
+  "keywords": [
+    "Raumfeld",
+    "node"
+  ],
+  "author": "Dennis Kopp",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dennis-hh/node-raumfeld/issues"
+  },
+  "homepage": "https://github.com/dennis-hh/node-raumfeld#readme",
+  "dependencies": {
+    "node-ssdp": "^2.7.0",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "upnp-device-client": "^1.0.0"
+  }
+}
