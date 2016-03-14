@@ -1,5 +1,5 @@
 # node-raumfeld
-===============
+
 This is a node module for Raumfeld. It maps upnp commands to usage-friendly method calls.
 
 Installation
