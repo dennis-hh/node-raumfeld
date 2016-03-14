@@ -1,6 +1,6 @@
 {
   "name": "node-raumfeld",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Node module for Raumfeld",
   "main": "index.js",
   "scripts": {
