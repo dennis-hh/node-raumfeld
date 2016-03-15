@@ -22,7 +22,7 @@
   "homepage": "https://github.com/dennis-hh/node-raumfeld#readme",
   "dependencies": {
     "node-ssdp": "^2.7.0",
-    "upnp-device-client": "^1.0.0",
+    "upnp-device-client": "^1.0.1",
     "q": "^1.4.1",
     "loglevel": "~1.4.0"
   }
