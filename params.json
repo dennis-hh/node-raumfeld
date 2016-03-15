@@ -1,0 +1,7 @@
+{
+  "name": "Node-raumfeld",
+  "tagline": "Node module for Raumfeld",
+  "body": "# node-raumfeld\r\n\r\nThis is a node module for Raumfeld. It maps upnp commands to usage-friendly method calls.\r\n\r\nInstallation\r\n------------\r\n\r\nInstall for node.js `npm`:\r\n\r\n``` bash\r\n$ npm install node-raumfeld\r\n```\r\n\r\nExample\r\n-------\r\n``` javascript\r\nvar RaumfeldManager = require('node-raumfeld');\r\n\r\nvar manager = new RaumfeldManager();\r\n\r\n// starts discovering devices asynchronously\r\nmanager.discover();\r\n\r\n// fetch a device and do something with it. Method calls on a device return a promise object\r\nvar device = manager.getDevice(\"Kitchen\");\r\n\r\ndevice.getVolume().then(function(value) {\r\n    console.log(\"Device volume is \" + value);\r\n});\r\n\r\n```",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
