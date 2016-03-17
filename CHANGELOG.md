@@ -5,6 +5,7 @@
 - added getMediaInfo to virtual device
 - updated upnp client dependency
 - renamed device to renderer
+- added hasRenderer method
 
 ## 0.1.0 (2016-03-14)
 - added functionality for mute control, play, pause and stop
