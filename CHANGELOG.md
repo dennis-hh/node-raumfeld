@@ -1,12 +1,16 @@
 # Changelog
 
 ## master
-- added virtual device to be able to handle room/zone capabilities
-- added getMediaInfo to virtual device
+
+## 0.2.0 (2016-03-22)
+- added virtual renderer to be able to handle room/zone capabilities
+- added getMediaInfo to virtual renderer
 - updated upnp client dependency
 - renamed device to renderer
 - added hasRenderer method
-- added media server
+- added media server (WIP)
+- added state request (only implemented for virtual renderers)
+- added possibility to only add virtual renderers
 
 ## 0.1.0 (2016-03-14)
 - added functionality for mute control, play, pause and stop
