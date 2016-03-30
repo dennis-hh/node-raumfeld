@@ -2,7 +2,7 @@
 
 ## master
 
-## 0.3.0
+## 0.3.0 (2016-03-30)
 - removed local storage of renderers and media server
 - added EventEmitter dependency; found devices are now emitted
 - changed "onlyVirtual" flag to "includeVirtual"
