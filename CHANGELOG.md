@@ -2,6 +2,10 @@
 
 ## master
 
+## 0.4.0
+- moved getState to VirtualRenderer, as real ones do not support this feature
+- switched "includeVirtual" to ternary flag; possible values are "virtual, real, all"
+
 ## 0.3.0 (2016-03-30)
 - removed local storage of renderers and media server
 - added EventEmitter dependency; found devices are now emitted
