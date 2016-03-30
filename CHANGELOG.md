@@ -2,6 +2,11 @@
 
 ## master
 
+## 0.3.0
+- removed local storage of renderers and media server
+- added EventEmitter dependency; found devices are now emitted
+- changed "onlyVirtual" flag to "includeVirtual"
+
 ## 0.2.0 (2016-03-22)
 - added virtual renderer to be able to handle room/zone capabilities
 - added getMediaInfo to virtual renderer
