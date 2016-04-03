@@ -2,6 +2,9 @@
 
 ## master
 
+## 0.4.2
+- added possibility to instantiate devices by url (asynchronously)
+
 ## 0.4.1
 - small adjustment to device instantiation
 
