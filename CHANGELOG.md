@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.4
+- added updateInterval parameter to discover method
+
 ## 0.4.3
 - added error handling for when device returns undefined state
 
