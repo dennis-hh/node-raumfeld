@@ -1,7 +1,7 @@
 # Changelog
 
 ## master
-- added error handling when device returnes undefined state
+- added error handling for when device returns undefined state
 
 ## 0.4.2
 - added possibility to instantiate devices by url (asynchronously)
