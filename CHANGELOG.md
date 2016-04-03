@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## 0.4.3
 - added error handling for when device returns undefined state
 
 ## 0.4.2
