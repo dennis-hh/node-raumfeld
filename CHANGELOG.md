@@ -2,6 +2,9 @@
 
 ## master
 
+## 0.4.1
+- small adjustment to device instantiation
+
 ## 0.4.0
 - moved getState to VirtualRenderer, as real ones do not support this feature
 - switched "includeVirtual" to ternary flag; possible values are "virtual, real, all"
